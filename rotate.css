@@ -250,6 +250,15 @@
     margin-left: -280px;
   }
 }
+.button-rotate-final {
+  background-color: #ffffff00;
+  border: 1px solid #ffffff00;
+  font-weight: 900;
+  font-size: 16px;
+  color: #050167;
+  cursor: pointer;
+  text-decoration: none;
+}
 
 
 @media (max-width: 600px){
